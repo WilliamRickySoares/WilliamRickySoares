@@ -2,7 +2,7 @@
 **Consultor Empresarial & Estratégico de Sistemas | Desenvolvedor Backend em Ascensão**
 
 
-🎯 Especialista em Análise de Sistemas com foco em integração, BI e automação  
+🎯 Especialista em Análise de Sistemas com foco em BPM, BI, integração e automação  
 💻 Backend | Laravel | APIs REST | ETL | Power BI | Qlik  
 📊 Estratégia orientada a dados, com perfil investigativo e foco em entrega
 
