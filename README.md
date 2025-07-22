@@ -4,14 +4,14 @@
 
 🎯 Especialista em Análise de Sistemas com foco em BPM, BI, integração e automação  
 💻 Backend | Laravel | APIs REST | ETL | Power BI | Qlik  
-📊 Estratégia orientada a dados, com perfil investigativo e foco em entrega
+📊 Estratégia orientada a dados, com perfil investigativo e foco em qualidade
 
 ---
 
 ## 👨‍💼 Sobre mim
 
 Consultor com sólida experiência na estruturação de sistemas corporativos e análise de processos.  
-Atualmente em transição técnica, focando em backend, APIs, automações e arquitetura de dados.
+Atualmente em transição de aprimoramento técnico, focando em backend, APIs, automações e arquitetura de dados.
 
 - 💡 Diagnóstico técnico e desenho de soluções
 - 🔌 Integração entre sistemas e modelagem de dados
@@ -24,8 +24,10 @@ Atualmente em transição técnica, focando em backend, APIs, automações e arq
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| `legado-sspam` *(privado)* | API RESTful para integração entre sistemas legados de RH | Laravel, Sqlite, SE Suite at SoftExpert |
-| `automacao-scripts` *(privado)* | Scripts de limpeza, normalização e migração de dados de sistemas antigos | PHP, Shell Script |
+| `legado-sspam` *(privado)* | API para integração entre sistemas legados | PHP, Laravel, SE Suite at SoftExpert |
+| `rpa-prodam` *(privado)* | Scripts de limpeza, normalização e migração de dados de sistemas antigos | Python |
+| `bgo` *(privado)* | Extração e Sanitização de dados para geração de relatórios customizados | PHP, Laravel, SE Suite at SortExpert |
+
 
 > 🔒 Os repositórios são privados por envolverem dados e arquitetura de clientes. Demonstrações ou apresentações sob demanda.
 
@@ -40,21 +42,22 @@ Atualmente em transição técnica, focando em backend, APIs, automações e arq
 
 ## ⚙️ Tecnologias
 
-- **Linguagens & Backend**: PHP, Laravel, JavaScript, REST API, JWT  
-- **Bancos & Modelagem**: SQL Server, MySQL, Oracle, SQLite  
-- **BI & Análise**: Power BI, Looker Studio, DAX, M, Excel Avançado  
-- **Automação & ETL**: Shell Script, carga incremental, integração entre bases  
-- **Ferramentas**: Git, Postman, ODBC, GitHub Actions, VS Code
+- **Linguagens & Backend**: PHP, Laravel, Python, API, SOAP, JWT  
+- **Bancos & Modelagem**: PostegreSQL, SQL Server, MySQL, Oracle, SQLite  
+- **BI & Análise**: Qlik Sense, Qlik View, Power BI, Looker Studio, DAX, M, Excel Avançado  
+- **Automação & ETL**: Carga incremental, Integração entre bases, Normalização de dados  
+- **Ferramentas**: GitHub, Postman, VS Code, PyCharm
 
 ---
 
 ## 📌 Roadmap de Aprendizado
 
 - [x] Laravel básico com autenticação e rotas protegidas  
-- [x] Integração REST com autenticação JWT  
+- [x] Integração REST com autenticação JWT
+- [ ] Refatoração de pipelines para eficiência de carga
 - [ ] Implementação de testes automatizados  
 - [ ] Publicação e deploy contínuo com CI/CD  
-- [ ] Refatoração de pipelines para eficiência de carga
+
 
 ---
 
