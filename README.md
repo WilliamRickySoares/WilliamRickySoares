@@ -42,24 +42,14 @@ Atualmente em transição de aprimoramento técnico, focando em backend, APIs, a
 
 ## ⚙️ Tecnologias
 
-- **Linguagens & Backend**: PHP, Laravel, Python, API, SOAP, JWT  
+- **Linguagens & Backend**: PHP, Laravel, Python, API, SOAP
 - **Bancos & Modelagem**: PostegreSQL, SQL Server, MySQL, Oracle, SQLite  
-- **BI & Análise**: Qlik Sense, Qlik View, Power BI, Looker Studio, DAX, M, Excel Avançado  
+- **BI & Análise**: Qlik Sense, Qlik View, Power BI, DAX, M, Excel Avançado  
 - **Automação & ETL**: Carga incremental, Integração entre bases, Normalização de dados  
-- **Ferramentas**: GitHub, Postman, VS Code, PyCharm
+- **Ferramentas**: SE Suite (by SoftExpert), Fusion Platform (by Neomind), Winthos (WMS) (by PC Sistemas / Totvs)
 
 ---
 
-## 📌 Roadmap de Aprendizado
-
-- [x] Laravel básico com autenticação e rotas protegidas  
-- [x] Integração REST com autenticação JWT
-- [ ] Refatoração de pipelines para eficiência de carga
-- [ ] Implementação de testes automatizados  
-- [ ] Publicação e deploy contínuo com CI/CD  
-
-
----
 
 ## 📫 Contato
 
