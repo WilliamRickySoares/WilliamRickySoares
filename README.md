@@ -37,7 +37,7 @@ Atualmente em transição de aprimoramento técnico, focando em backend, APIs, a
 ## 📈 Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRickySoares&layout=compact&theme=github_dark)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamRickySoares&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamRickySoares&show_icons=true&theme=holi)
 
 ---
 
