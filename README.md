@@ -24,6 +24,7 @@ Atualmente em transição de aprimoramento técnico, focando em backend, APIs, a
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| `DHIPSTER` *(privado)* | Projeto pessoal que busca construir um boilplate em Django, semelhante ao Jhipster | Python, Django, Jhipster |
 | `legado-sspam` *(privado)* | API para integração entre sistemas legados | PHP, Laravel, SE Suite at SoftExpert |
 | `rpa-prodam` *(privado)* | Scripts de limpeza, normalização e migração de dados de sistemas antigos | Python |
 | `bgo` *(privado)* | Extração e Sanitização de dados para geração de relatórios customizados | PHP, Laravel, SE Suite at SortExpert |
